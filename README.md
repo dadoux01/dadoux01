@@ -15,9 +15,15 @@
 [<img align="left" alt="My twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+<br>
+
 ![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=radical)
 
-
+<br>
 
 [discord]: https://discord.gg/dZeEHSJccz
 [website]: https://dadoux.fr/
