@@ -8,8 +8,6 @@
 - 🔭 Currently working on none project
 - 🌱 I’m currently learning CSS / JS / PHP / LUA
 
-<br>
-
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
