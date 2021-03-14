@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/dadoux01_?color=1DA1F2&label=FOLLOW%20%40dadoux01_&logo=Twitter&style=for-the-badge)](https://twitter.com/dadoux01_)
 [![Website](https://img.shields.io/website?color=blueviolet&down_color=RED&down_message=DADOUX.FR&label=VISIT%20MY%20WEBSITE&logo=Tor%20Browser&iconColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=DADOUX.FR&url=https%3A%2F%2Fdadoux.fr)](https://dadoux.fr)
 
@@ -16,6 +14,8 @@
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="My twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=radical)
 
 
 
