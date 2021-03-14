@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dadoux93_?color=1DA1F2&label=FOLLOW%20%40dadoux93_&logo=Twitter&style=for-the-badge)](https://twitter.com/dadoux93_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dadoux01_?color=1DA1F2&label=FOLLOW%20%40dadoux01_&logo=Twitter&style=for-the-badge)](https://twitter.com/dadoux01_)
 [![Website](https://img.shields.io/website?color=blueviolet&down_color=RED&down_message=DADOUX.FR&label=VISIT%20MY%20WEBSITE&logo=Tor%20Browser&iconColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=DADOUX.FR&url=https%3A%2F%2Fdadoux.fr)](https://dadoux.fr)
 
 
 ## I'm an independent developer!
 
 - 🔭 Currently working on none project
-- 🌱 I’m currently learning <iframe src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> </iframe>
+- 🌱 I’m currently learning <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
