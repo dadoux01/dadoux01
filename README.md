@@ -16,9 +16,9 @@
 
 ### My Stats !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoux01&layout=compact)](https://github.com/dadoux01)
-
 ![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoux01&layout=compact&theme=vue)](https://github.com/dadoux01)
 
 <br>
 
