@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/dadoux93_?color=1DA1F2&label=FOLLOW%20%40dadoux93_&logo=Twitter&style=for-the-badge)](https://twitter.com/dadoux93_)
+[![Website](https://img.shields.io/website?color=blueviolet&down_color=RED&down_message=DADOUX.FR&label=VISIT%20MY%20WEBSITE&logo=Tor%20Browser&iconColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=DADOUX.FR&url=https%3A%2F%2Fdadoux.fr)](https://dadoux.fr)
+
+
+## I'm an independent developer!
+
+- 🔭 Currently working on none project
+- 🌱 I’m currently learning 
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][discord]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][discord]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][discord]
+
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="My twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+
+
+
 <!--
 **dadoux01/dadoux01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
