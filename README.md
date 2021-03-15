@@ -14,9 +14,9 @@
 
 ### My Stats !
 
-![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=vue)
+![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoux01&layout=compact&theme=vue)](https://github.com/dadoux01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoux01&layout=compact&theme=gotham)](https://github.com/dadoux01)
 
 <br>
 
