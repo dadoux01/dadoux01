@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-dadoux01.vercel.app/" alt="Dadoux spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
+[<img src="https://novatorem-dadoux01.vercel.app/api/spotify" alt="Dadoux spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
 
 ### My Stats !
 
