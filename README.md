@@ -12,6 +12,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
 
+[<img src="https://spotify-readme-teal.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
+
 ### My Stats !
 
 ![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=vue)
