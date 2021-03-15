@@ -10,13 +10,13 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-dadoux01.vercel.app/api/spotify&theme=gotham" alt="Dadoux spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
+[<img src="https://novatorem-dadoux01.vercel.app/api/spotify" alt="Dadoux spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
 
 ### My Stats !
 
-![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=gotham)
+![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoux01&layout=compact&theme=gotham)](https://github.com/dadoux01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoux01&layout=compact&theme=vue)](https://github.com/dadoux01)
 
 <br>
 
