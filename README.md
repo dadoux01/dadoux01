@@ -6,7 +6,7 @@
 ## I'm an independent developer!
 
 - 🔭 Currently working on none project
-- 🌱 I’m currently learning CSS / JS / PHP / LUA
+- 🌱 I’m currently learning JS / PHP / LUA
 
 ### Spotify Playing 🎧
 
