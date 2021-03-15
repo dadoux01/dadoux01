@@ -10,8 +10,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
-
 [<img src="https://spotify-readme-dadoux01.vercel.app/api/spotify-playing" alt="Dadoux spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
 
 ### My Stats !
