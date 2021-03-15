@@ -1,6 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dadoux01_?color=rgb%2829%2C%20161%2C%20242%29&logo=twitter&style=for-the-badge)](https://twitter.com/dadoux01_)
 [![Website](https://img.shields.io/website?color=blueviolet&down_color=RED&down_message=DADOUX.FR&label=VISIT%20MY%20WEBSITE&logo=Tor%20Project&iconColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=DADOUX.FR&url=https%3A%2F%2Fdadoux.fr)](https://dadoux.fr)
-[![Website](https://img.shields.io/website?color=blueviolet&down_color=RED&down_message=DADOUX&label=JOIN%20MY%20DISCORD!&logo=Discord&iconColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=DADOUX&url=https%3A%2F%2Fdadoux.fr)](https://discord.gg/dZeEHSJccz)
+[![Website](https://img.shields.io/website?color=rgb%28114%2C%20137%2C%20218%29&down_color=RED&down_message=DADOUX&label=JOIN%20MY%20DISCORD!&logo=Discord&iconColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=DADOUX&url=https%3A%2F%2Fdadoux.fr)](https://discord.gg/dZeEHSJccz)
 
 
 ## I'm an independent developer!
