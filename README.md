@@ -8,10 +8,6 @@
 - 💻 Currently working on none project
 - 📚 I’m currently learning JS / PHP / LUA
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-dadoux01.vercel.app/api/spotify" alt="Dadoux spotify Playing" width="350" />](https://open.spotify.com/user/38169e143df442cb89dbbe944b9c19ca)
-
 ### My Stats !
 
 ![dadoux's github stats](https://github-readme-stats.vercel.app/api?username=dadoux01&show_icons=true&theme=vue)
