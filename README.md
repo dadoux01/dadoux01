@@ -11,7 +11,7 @@
 
 ## $ whoami
 
-Étudiant à **42 Paris**, en train de reconstruire le monde Unix brique par brique — en C pur.  
+Étudiant à **42 Paris**, en train de reconstruire le monde Unix brique par brique en C pur.  
 Zéro cours magistraux, zéro prof. Juste des projets, des pairs, et un terminal qui ne ment pas.
 
 ---
