@@ -1,14 +1,7 @@
+# 🧙🏼 Michael
+
+**`42 Student`**
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00babc,100:0a0a0a&height=200&section=header&text=Michael&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=42%20Paris%20Student&descSize=18)
-</div>
-
----
-
-**`Student`**
-
----
-
 ## $ whoami
 
 Étudiant à **42 Paris**, en train de reconstruire le monde Unix brique par brique en C pur.  
