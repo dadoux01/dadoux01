@@ -2,7 +2,7 @@
 
 **`42 Student`**
 
-<div align="center">
+---
   
 ## $ whoami
 
@@ -10,6 +10,8 @@
 Zéro cours magistraux, zéro prof. Juste des projets, des pairs, et un terminal qui ne ment pas.
 
 ---
+
+<div align="center">
 
 ## 🗂️ Tronc commun — progression
 
