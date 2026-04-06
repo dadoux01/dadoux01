@@ -5,7 +5,7 @@
 
 ---
 
-> *"No libraries. No shortcuts. Just C, logic, and a stack overflow you actually caused yourself."*
+**`Student`**
 
 ---
 
