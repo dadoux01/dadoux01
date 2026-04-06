@@ -30,7 +30,7 @@ Zéro cours magistraux, zéro prof. Juste des projets, des pairs, et un terminal
 
 ```c
 char    *languages[] = { "C", NULL };
-char    *in_progress[] = { "Python", "Javascript", "TypeScript", "React" };
+char    *in_progress[] = { "Python", "Javascript", "TypeScript", "React", NULL };
 char    *tools[]     = { "gcc", "make", "valgrind", "lldb", "git", NULL };
 char    *env[]       = { "Linux", "macOS", NULL };
 ```
