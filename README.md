@@ -1,7 +1,9 @@
 # 🧙🏼 Michael
 
 **`42 Student`**
+
 <div align="center">
+  
 ## $ whoami
 
 Étudiant à **42 Paris**, en train de reconstruire le monde Unix brique par brique en C pur.  
