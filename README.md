@@ -18,7 +18,7 @@ No lectures, no teachers. Just projects, peers, and a terminal that never lies.
 | [**So_long**](https://github.com/dadoux01/so_long) | MiniLibX, windows, keyboard events | 100/100 |
 | [**Pipex**](https://github.com/dadoux01/pipex) | `fork`, `execve`, Unix pipes | 100/100 |
 | [**Philosopher**](https://github.com/dadoux01/philosopher) | Thread, Mutex, Time | 🔄 |
-| **Minishell** | Full parsing, processes, builtins | 🔄 |
+| [**Minishell**](https://github.com/dadoux01/Minishell) | Full parsing, processes, builtins | 🔄 |
 
 </div>
 <br>
