@@ -1,42 +1,54 @@
-# 🧙🏼 Michael
-
-**`42 Student`**
-
-Student at **42 Paris**, deep in the learning of pure C.  
-No lectures, no teachers. Just projects, peers, and a terminal that never lies.
-
 <div align="center">
+
+# 🧙🏼 Hi, I'm Michael
+
+**Student at [42 Paris](https://42.fr) — learning low-level programming in pure C.**
+
+*No lectures, no teachers. Just projects, peers, and a terminal that never lies.*
+
+![42 Paris](https://img.shields.io/badge/42-Paris-000000?style=flat-square&logo=42&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+</div>
+
+---
 
 ## 🗂️ Common Core — progress
 
-| Project | Key concept | Status |
-|:---------:|:-------------:|:--------:|
-| [**Libft**](https://github.com/dadoux01/libft) | Recode the libc from scratch | 125/100 |
-| [**ft_printf**](https://github.com/dadoux01/ft_printf) | Variadic functions & format parsing | 100/100 |
-| [**get_next_line**](https://github.com/dadoux01/get_next_line) | File descriptors, static buffers | 112/100 |
-| [**Push_swap**](https://github.com/dadoux01/push_swap) | Stack sorting, algorithm optimization | 100/100 |
-| [**So_long**](https://github.com/dadoux01/so_long) | MiniLibX, windows, keyboard events | 100/100 |
-| [**Pipex**](https://github.com/dadoux01/pipex) | `fork`, `execve`, Unix pipes | 100/100 |
-| [**Philosopher**](https://github.com/dadoux01/philosopher) | Thread, Mutex, Time | 100/100 |
-| [**Minishell**](https://github.com/dadoux01/Minishell) | Full parsing, processes, builtins | 125/100 |
-| [**CUB3D**](https://github.com/dadoux01/Minishell) | . | 0/100 |
-| [**NETPRACTICE**](https://github.com/dadoux01/Minishell) | . | 0/100 |
-| [**CPP 01-05**](https://github.com/dadoux01/Minishell) | . | 0/100 |
+| # | Project | Key concepts | Grade |
+|:-:|:--------|:-------------|:-----:|
+| 0 | [**Libft**](https://github.com/dadoux01/libft) | Recoding the libc from scratch, linked lists | ✅ **125** ⭐ |
+| 1 | **Born2beroot** | System administration, VM, partitioning, security | ✅ |
+| 1 | [**ft_printf**](https://github.com/dadoux01/ft_printf) | Variadic functions, format parsing | ✅ **100** |
+| 1 | [**get_next_line**](https://github.com/dadoux01/get_next_line) | File descriptors, static variables, buffers | ✅ **112** ⭐ |
+| 2 | [**push_swap**](https://github.com/dadoux01/push_swap) | Stack sorting, algorithmic complexity | ✅ **100** |
+| 2 | [**so_long**](https://github.com/dadoux01/so_long) | MiniLibX, 2D rendering, keyboard events | ✅ **100** |
+| 2 | [**pipex**](https://github.com/dadoux01/pipex) | `fork`, `execve`, `pipe`, `dup2` | ✅ **100** |
+| 3 | [**philosophers**](https://github.com/dadoux01/philosopher) | Threads, mutexes, race conditions, timing | ✅ **100** |
+| 3 | [**minishell**](https://github.com/dadoux01/Minishell) | Lexer/parser, processes, signals, builtins | ✅ **125** ⭐ |
+| 4 | **cub3D** | Raycasting, 3D rendering with MiniLibX | 🚧 In progress |
+| 4 | **NetPractice** | TCP/IP addressing, subnets, routing | ⏳ Upcoming |
+| 4 | **CPP 00–04** | OOP, classes, inheritance, polymorphism | ⏳ Upcoming |
 
-</div>
-<br>
+<sub>⭐ = bonus validated</sub>
 
-<div align="center">
+---
 
 ## 🔧 Stack
 
-</div>
-
 ```c
-char    *languages[] = { "C", NULL };
-char    *in_progress[] = { "Python", "Javascript", "TypeScript", "React", NULL };
-char    *tools[]     = { "gcc", "make", "valgrind", "lldb", "git", NULL };
-char    *env[]       = { "Linux", "macOS", NULL };
+const char *languages[]   = { "C", NULL };
+const char *learning[]    = { "C++", "Python", "JavaScript", "TypeScript", "React", NULL };
+const char *tools[]       = { "gcc", "make", "valgrind", "lldb", "gdb", "git", "docker", NULL };
+const char *environment[] = { "Linux", "macOS", NULL };
 ```
 
 ---
+
+<div align="center">
+
+*"It compiles. Ship it… after valgrind."* 🐛
+
+</div>
