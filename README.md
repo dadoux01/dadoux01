@@ -46,9 +46,3 @@ const char *environment[] = { "Linux", "macOS", NULL };
 ```
 
 ---
-
-<div align="center">
-
-*"It compiles. Ship it… after valgrind."* 🐛
-
-</div>
