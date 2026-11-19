@@ -19,6 +19,9 @@ No lectures, no teachers. Just projects, peers, and a terminal that never lies.
 | [**Pipex**](https://github.com/dadoux01/pipex) | `fork`, `execve`, Unix pipes | 100/100 |
 | [**Philosopher**](https://github.com/dadoux01/philosopher) | Thread, Mutex, Time | 100/100 |
 | [**Minishell**](https://github.com/dadoux01/Minishell) | Full parsing, processes, builtins | 125/100 |
+| [**CUB3D**](https://github.com/dadoux01/Minishell) | . | 0/100 |
+| [**NETPRACTICE**](https://github.com/dadoux01/Minishell) | . | 0/100 |
+| [**CPP 01-05**](https://github.com/dadoux01/Minishell) | . | 0/100 |
 
 </div>
 <br>
